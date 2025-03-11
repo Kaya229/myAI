@@ -1,5 +1,7 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
+const AI_NAME = "WallenBuffettAI";
+const OWNER_NAME = "Takachika";
 export const CHAT_HEADER: string = "Warren Buffett AI";
 export const MESSAGE_PLACEHOLDER: string = "[MESSAGE PLACEHOLDER]";
 export const FOOTER_MESSAGE: string = "Warren Buffett AI by Takachika";
